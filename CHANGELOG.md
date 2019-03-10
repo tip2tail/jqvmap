@@ -3,6 +3,14 @@
 Change Log
 ======
 
+Version 1.6.0
+---
+
+`Released on March 10th, 2019`
+
+1. Updated jQuery version number to avoid security alerts
+
+
 Version 1.5.1
 ---
 
